@@ -1,9 +1,9 @@
-###This is a test-webpack project
+# This is a test-webpack project
 
-##Install
+## Install
 
 >npm install
 
-##Run
+## Run
 
 >npm start
