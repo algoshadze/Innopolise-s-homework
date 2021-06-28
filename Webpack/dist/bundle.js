@@ -1,0 +1,1 @@
+console.log(["Dnypro","Orenbourg","Moscow","Habarovsk"]),document.createElement("body").append("Some text");
